@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">AppName</string>
+  <string moduleConfig="true" name="CodePushDeploymentKey">QnuqjcHr5G5dlF4Ud2JwpcJBMWz6id_0</string>
+  <string moduleConfig="true" name="CodePushServerUrl">http://localhost:3010/</string>
+  <string name="expo_system_ui_user_interface_style" translatable="false">automatic</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+</resources>
